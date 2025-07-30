@@ -82,6 +82,49 @@ print(me.say_hello())
 
 ---
 
+## 🚀 Featured Projects
+
+### 🎟️ [BookMyShow Clone](https://github.com/RojalinWorks/bookmyshow-clone)
+
+**Full Stack | Django + React**
+
+* 🎬 Full-featured movie ticket booking system
+* 🛠️ Dynamic seat pricing, secure payments, and QR code ticketing
+* 👥 Admin panels for theater/movie owners, refund & retry logic
+
+---
+
+### 💬 [ChatVerse – Chat & Calling App](https://github.com/RojalinWorks/chatverse)
+
+**WebSockets + Django + WebRTC**
+
+* 💬 Real-time chat and video calling with E2EE
+* 🔐 AES + RSA hybrid encryption with zero data leak tolerance
+* 🌐 Scalable Django backend and sleek React interface
+
+---
+
+### 🏫 [Student Management System](https://github.com/RojalinWorks/Students-Management-System)
+
+**Python + Django**
+
+* 🏫 Manage students, results, attendance, and faculty roles
+* 🧑‍🏫 Role-based access for admin, teacher, and student
+* 📊 Dashboard with analytics and record exports
+
+---
+
+### ✅ [ToDo App](https://github.com/RojalinWorks/Todoapp)
+
+**React + Django REST**
+
+* 🗂️ Clean UI for task creation, filtering, and management
+* 🔄 RESTful API with token-based auth
+* 📱 Fully responsive with modern UI/UX
+
+---
+
+
 ## 📈 GitHub Stats
 
 <div align="center">
@@ -94,6 +137,12 @@ print(me.say_hello())
 <div align="center">
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rojalinworks&theme=radical" alt="GitHub Streak"/>
+
+</div>
+<!-- GitHub Activity Graph -->
+<div align="center">
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rojalinworks&theme=radical&bg_color=1a1b27&color=E5E5E5&line=F85A40&point=FFB86C" alt="GitHub Activity Graph"/>
 
 </div>
 
